@@ -341,4 +341,8 @@ padding: 10px;
 .footerpara{
     width: 50%;
 }
+
+.top{
+    height: fit-content;
+}
 }
