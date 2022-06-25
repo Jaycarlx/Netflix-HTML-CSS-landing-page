@@ -328,3 +328,17 @@ padding: 10px;
 .footerpara .ques {
     padding-top: 50px;
 }
+
+@media only screen and (max-wwidth:400){
+#cards{
+    width: 50%;
+}
+
+#cards .wrapper .card-item{
+    width: 50%;
+}
+
+.footerpara{
+    width: 50%;
+}
+}
